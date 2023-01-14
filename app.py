@@ -2,4 +2,7 @@
 from typing import List 
 
 def binary_search(num: List, target: int) -> int:
-    pass
+    # open range
+
+# Dev app function at home
+
