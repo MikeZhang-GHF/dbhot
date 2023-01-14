@@ -5,4 +5,3 @@ def binary_search(num: List, target: int) -> int:
     # open range
 
 # Dev app function at home
-
